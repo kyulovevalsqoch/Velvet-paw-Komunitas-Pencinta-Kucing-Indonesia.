@@ -5,7 +5,7 @@ let events = [
     {
         id: 1,
         name: "Seminar bagaimana anda bisa mengenal kucing anda lebih dekat lagi oleh dokter budiman",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        description: "Kami mengajak Anda untuk menyelami dunia kucing kesayangan dalam seminar interaktif Bagaimana Anda Bisa Mengenal Kucing Anda Lebih Dekat Lagi. Acara ini akan mengungkap rahasia di balik setiap meong, gerakan ekor, dan perilaku unik kucing, sekaligus memberikan panduan praktis untuk memahami bahasa tubuh, kebutuhan emosional, serta tanda-tanda kesehatan mereka dari sudut pandang medis. Dengan pemahaman yang lebih dalam, Anda tidak hanya menjadi pemilik, tetapi juga sahabat dan pelindung terbaik bagi kehidupan kucing peliharaan Anda.",
         location: "JL.manusia no 87",
         date: "30 Februari 2097",
         interestedCount: 120
